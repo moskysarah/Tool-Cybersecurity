@@ -5,12 +5,15 @@ Scan le Reseau
 
 Nmap → scanner les réseaux
 🧪 Analyse réseau
-Wireshark → voir les données qui circulent
-💣 Exploitation
-Metasploit → tester les failles
-Penetration Testing 
-🌐 Web hacking
-Burp Suite → tester les sites
+<p flex-direction="column">
+     Wireshark → voir les données qui circulent
+    💣 Exploitation
+    Metasploit → tester les failles
+    Penetration Testing 
+  🌐 Web hacking
+  Burp Suite → tester les sites
+</p>
+
 <br></br>
 🔵Blue Team (défense)
 Outils : SIEM, logs
